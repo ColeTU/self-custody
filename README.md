@@ -264,7 +264,7 @@ Regardless of what signing device you choose, you will need to choose based off 
 
 Sparrow enables you to [verify your downloads](https://www.sparrowwallet.com/download/) with ease too, with simple drag and drops of the download and signatures, you can ensure you have the right file. 
 
-Tutorials - [Arman](https://armantheparman.com/sparrow/), [Southern Bitcoiner](https://www.youtube.com/watch?v=7QCKSPIq0Ac), [BTC Sessions](https://www.youtube.com/watch?v=qJ_SpQX_YKw).
+Tutorials - [Arman](https://armantheparman.com/sparrow/), [Southern Bitcoiner](https://www.youtube.com/watch?v=tE-oEQPMrdI), [BTC Sessions](https://www.youtube.com/watch?v=qJ_SpQX_YKw).
 
 [Specter Wallet](https://specter.solutions/desktop/index.html) is another good option, it is FOSS and also allows you to have coin control. 
 
